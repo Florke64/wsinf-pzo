@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: win.flrque.university.program2.Main
-
