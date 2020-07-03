@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="889e70bf-d9bc-4b2f-8ec4-2a0bc248d76d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ar8fb1YLxnYVTyquMiLBVNqVyq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../IdeaProjects/FirePickaxeEnchantment" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="win.flrque.university.dzialaniarzecz2.Main" />
+      <module name="dzialaniarzecz2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="889e70bf-d9bc-4b2f-8ec4-2a0bc248d76d" name="Default Changelist" comment="" />
+      <created>1587482455480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587482455480</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2023" y="280" width="428" height="484" key="FileChooserDialogImpl" timestamp="1587596358703">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2023" y="280" width="428" height="484" key="FileChooserDialogImpl/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1587596358703" />
+    <state width="1874" height="173" key="GridCell.Tab.0.bottom" timestamp="1587498597030">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="173" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1587498597030" />
+    <state width="1874" height="173" key="GridCell.Tab.0.center" timestamp="1587498597030">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="173" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1587498597030" />
+    <state width="1874" height="173" key="GridCell.Tab.0.left" timestamp="1587498597030">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="173" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1587498597030" />
+    <state width="1874" height="173" key="GridCell.Tab.0.right" timestamp="1587498597030">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="173" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1587498597030" />
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom" timestamp="1587498597025">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1587498597025" />
+    <state width="1874" height="340" key="GridCell.Tab.1.center" timestamp="1587498597025">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.center/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1587498597025" />
+    <state width="1874" height="340" key="GridCell.Tab.1.left" timestamp="1587498597025">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.left/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1587498597025" />
+    <state width="1874" height="340" key="GridCell.Tab.1.right" timestamp="1587498597025">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.right/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1587498597025" />
+  </component>
+</project>

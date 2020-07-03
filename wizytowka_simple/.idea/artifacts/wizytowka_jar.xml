@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wizytowka:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/wizytowka_jar</output-path>
+    <root id="archive" name="wizytowka.jar">
+      <element id="module-output" name="wizytowka" />
+    </root>
+  </artifact>
+</component>
